@@ -1,0 +1,11 @@
+target/
+.git/
+.gitignore
+.gitattributes
+*.log
+.mvn/wrapper/maven-wrapper.jar
+HELP.md
+IMPLEMENTATION.md
+run_app.bat
+.idea/
+*.iml
